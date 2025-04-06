@@ -19,7 +19,7 @@ const sketch = () => {
     context.closePath();
     context.beginPath();
     context.arc(200, 200, 50, 0, Math.PI * 2); //cerchio
-    context.fillStyle = 'rgb(201, 40, 83)';
+    context.fillStyle = 'rgb(72, 172, 9)';
     context.fill();
     context.closePath();
     
