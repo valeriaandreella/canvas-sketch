@@ -6,7 +6,7 @@ const settings =
   //dimensions: [ 1000,1000 ]
   dimensions: 'A4',
   units: 'mm',
-  pixelsPerInch: 300
+  pixelsPerInch: 200
 };
 
 const sketch = () => {
