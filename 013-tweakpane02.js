@@ -1,6 +1,7 @@
 const canvasSketch = require('canvas-sketch');
 const { degToRad, mapRange } = require('canvas-sketch-util/math');
 const random = require('canvas-sketch-util/random');
+import rgbaToHex from 'canvas-sketch-util/lib/rgba-to-hex';
 import {Pane} from 'tweakpane';
 
 const settings = {
